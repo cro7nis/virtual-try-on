@@ -1,0 +1,36 @@
+[tool.poetry]
+name = "akash-try-on"
+version = "0.1.0"
+description = ""
+authors = ["cro7 <cro7nis@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+torch = "2.1.0"
+scipy= "*"
+scikit-image= "0.21.0"
+opencv-python = "4.7.0.72"
+pillow = "9.4.0"
+diffusers = "0.25.0"
+transformers = "4.36.2"
+accelerate = "*"
+matplotlib = "3.7.4"
+tqdm = "*"
+gradio = "*"
+config = "*"
+einops = "*"
+onnxruntime = "*"
+av = "*"
+fvcore = "*"
+cloudpickle = "*"
+omegaconf = "*"
+pycocotools = "*"
+
+[tool.pytest.ini_options]
+log_cli = true
+log_cli_level = 'warning'
+minversion = "6.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

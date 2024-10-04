@@ -1,0 +1,1 @@
+docker build -t cro7/akash-try-on:0.0.2 -f docker/Dockerfile .
