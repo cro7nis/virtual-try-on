@@ -18,6 +18,10 @@ The project is developed for the **Akash Console** zealy task which is hosted by
 
 ## Deploy on Akash guide <img src="./assets/akash-logo.png" alt="drawing" width=20 height=20/>
 
+
+https://github.com/user-attachments/assets/c3bbd469-b462-4491-8a8d-22840575528f
+
+
 - Create and fund a Keplr or Leap wallet
   - [Keplr wallet](https://akash.network/docs/getting-started/token-and-wallets/#keplr-wallet)
   - [Leap wallet](https://akash.network/docs/getting-started/token-and-wallets/#leap-cosmos-wallet)
